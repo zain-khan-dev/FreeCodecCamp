@@ -1,0 +1,11 @@
+#img-div
+{
+  position:absolute;
+  left:45%;
+
+}
+#image
+{
+  max-width:20%;
+  display:block;
+}
